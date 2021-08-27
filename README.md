@@ -13,6 +13,7 @@
 Pour creer le premier compte admin et avoir acces au panel admin :
 
 -créer un compte avec le formulaire du site
+
 -remplacer dans la table users de la BDD la colonne isAdmin de votre user par 1
 
 
