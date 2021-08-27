@@ -9,6 +9,11 @@
 -Dans le backend utiliser nodemon server
 -Dans le frontend utiliser quasar dev
 
+Pour creer le premier compte admin et avoir acces au panel admin :
+-créer un compte avec le formulaire de base
+-remplacer dans la table users de la BDD la colonne isAdmin de votre user par 1
+
+
 En cas de soucis avec quasar dev :
 npm install -g @quasar/cli
 
